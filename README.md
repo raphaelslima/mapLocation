@@ -6,7 +6,7 @@
 
 <br>
 
-Link: https://raphael-lima-aiko-teste.netlify.app
+Link:
 
 <br>
 
@@ -35,8 +35,6 @@ Link: https://raphael-lima-aiko-teste.netlify.app
 <li>CSS</li>
 
 <li>HTML</li>
-
-<li>Design Responsivo</li>
 
 <li>Mobile First</li>
 
